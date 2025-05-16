@@ -1,0 +1,9 @@
+
+#ifndef CPU_DEFINES_H 
+#define CPU_DEFINES_H
+
+#define CONTINUE_INSTRUCTION 1
+#define SYSCALL_INSTRUCTION -1
+#define SEG_FAULT -2
+
+#endif // CPU_DEFINES_H

@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "communication.h": "c",
+        "thread_test.h": "c",
+        "kernel_dispatch.h": "c",
+        "kernel_interrupt.h": "c",
+        "kernel.h": "c"
+    }
+}
